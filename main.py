@@ -2,7 +2,6 @@ import osmnx as ox
 import geopandas as gpd
 import folium
 
-# Define the location (example: Dharavi, Mumbai)
 place_name = "Dharavi, Mumbai, India"
 
 # Function to fetch building footprints using osmnx
